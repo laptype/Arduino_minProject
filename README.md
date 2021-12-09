@@ -1,7 +1,9 @@
 # Arduino_minProject
 
-Microchip Studio
-(ATmega 328p)
+Microchip Studio (ATmega 328p)
+
+demo: https://www.bilibili.com/video/BV1Jq4y1q7V8
+
 Components:
 
 - ATmega 328p micrcontroller (Arduino Uno)
